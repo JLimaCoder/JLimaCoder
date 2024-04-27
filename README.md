@@ -1,4 +1,28 @@
-<h2 align="left">Ola 👋! Bem vindo ao meu perfil :0</h2>
+<h3 align="center">Ola 👋! Bem vindo ao meu perfil :0</h3>
+
+###
+
+<div align="right">
+  <img height="150" src="https://cdn.discordapp.com/attachments/1115853923039846483/1233612155488833576/8o71nj.gif?ex=662dba59&is=662c68d9&hm=6027965fe2d367488275828a116df01f02db609078b9467575e7c7e2adaf0a96&"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="javascript logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="python logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="java logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="38" alt="linux logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/JLimaCoder/JLimaCoder/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -9,24 +33,8 @@
 
 ###
 
-<div style="width:150px;max-width:100%;"><div style="height:0;padding-bottom:100%;position:relative;"><iframe width="150" height="150" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/8o71nj"></iframe></div><p><a href="https://imgflip.com/gif/8o71nj">via Imgflip</a></p></div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/JLimaCoder/count.svg?"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JLimaCoder/JLimaCoder/output/snake.svg" alt="Snake animation" />
 
 ###
