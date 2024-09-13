@@ -1,4 +1,4 @@
-<h3 align="center">Ola 👋! Bem vindo ao meu perfil, Prazer todos me conhecem por Lima  :0</h3>
+<h3 align="center">Ola 👋! Bem vindo ao meu perfil, Prazer, todos me conhecem por Lima  :0</h3>
 
 ###
 
