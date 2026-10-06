@@ -90,18 +90,23 @@ Linux           ███████░░░  70%
 <br/> -->
 
 <!-- ═════════════ ESTATÍSTICAS ═════════════ -->
-<h2 align="center">📊 Telemetria</h2>
+<img src="https://raw.githubusercontent.com/JLimaCoder/JLimaCoder/output/snake.svg" alt="Snake animation" />
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JLimaCoder&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffb454&text_color=c9d1d9&icon_color=5eead4&ring_color=ffb454&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLimaCoder&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=ffb454&text_color=c9d1d9&locale=pt-br" alt="Linguagens mais usadas" />
-</p>
+###
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JLimaCoder&bg_color=0d1117&color=ffb454&line=ffb454&point=ffffff&area=true&area_color=ffb454&hide_border=true&custom_title=Atividade%20nos%20%C3%BAltimos%2031%20dias" alt="Gráfico de atividade" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JLimaCoder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=JLimaCoder&locale=pt-br&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JLimaCoder&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<br/>
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/JLimaCoder/count.svg?"  />
+</div>
+
+###
 
 <!-- ═════════════ CONTATO ═════════════ -->
 <h2 align="center">📡 Conexões</h2>
@@ -131,20 +136,4 @@ Linux           ███████░░░  70%
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/JLimaCoder/JLimaCoder/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JLimaCoder&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=JLimaCoder&locale=pt-br&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JLimaCoder&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/JLimaCoder/count.svg?"  />
-</div>
-
-###
