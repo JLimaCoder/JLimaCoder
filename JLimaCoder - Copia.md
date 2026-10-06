@@ -44,7 +44,6 @@ status      : aprendendo todo dia ☕
 [+] Construir coisas legais
 [+] Entender como os sistemas quebram, para saber protegê-los
 [+] Compartilhar o que aprendo pelo caminho
-[!] Regra de ouro: só testo o que é meu ou o que tenho autorização para testar
 
 ┌──(jlima㉿github)-[~/perfil]
 └─$ _
@@ -72,7 +71,7 @@ Linux           ███████░░░  70%
 <br/>
 
 <!-- ═════════════ SPOTIFY ═════════════ -->
-<h2 align="center">🎧 No toca-discos</h2>
+<!--<h2 align="center">🎧 No toca-discos</h2> -->
 
 <!--
   ✏️ EDITE: como ativar o card do Spotify
