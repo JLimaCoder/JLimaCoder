@@ -81,13 +81,13 @@ Linux           ███████░░░  70%
   O card mostra a música que você está ouvindo agora e, quando está offline,
   a última que você tocou.
 -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://open.spotify.com/user/SEU_SPOTIFY_UID">
     <img src="https://spotify-github-profile.kittinan.vercel.app/api/view?uid=SEU_SPOTIFY_UID&cover_image=true&theme=default&show_offline=true&background_color=0d1117&bar_color=ffb454&bar_color_cover=false" alt="Spotify - música atual ou última tocada" />
   </a>
 </p>
 
-<br/>
+<br/> -->
 
 <!-- ═════════════ ESTATÍSTICAS ═════════════ -->
 <h2 align="center">📊 Telemetria</h2>
