@@ -122,7 +122,7 @@ Linux           ███████░░░  70%
 <p align="center">
   <img src="https://img.shields.io/github/followers/JLimaCoder?style=for-the-badge&label=seguidores&color=ffb454&labelColor=0d1117" alt="Seguidores" />
   </p>
-  </p>
+  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JLimaCoder&style=for-the-badge&label=visitas&color=ffb454&labelColor=0d1117" alt="Visitas no perfil" />
 </p>
 
