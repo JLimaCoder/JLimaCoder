@@ -116,16 +116,13 @@ Linux           ███████░░░  70%
   <a href="https://github.com/JLimaCoder">
     <img src="https://img.shields.io/badge/GitHub-JLimaCoder-0d1117?style=for-the-badge&logo=github&logoColor=ffb454" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU-USUARIO">
-    <img src="https://img.shields.io/badge/LinkedIn-conectar-0d1117?style=for-the-badge&logo=linkedin&logoColor=5eead4" alt="LinkedIn" />
-  </a>
-  <a href="mailto:SEU-EMAIL@exemplo.com">
-    <img src="https://img.shields.io/badge/E--mail-enviar-0d1117?style=for-the-badge&logo=gmail&logoColor=ffb454" alt="E-mail" />
-  </a>
-</p>
+
+
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/JLimaCoder?style=for-the-badge&label=seguidores&color=ffb454&labelColor=0d1117" alt="Seguidores" />
+  </p>
+  </p>
   <img src="https://komarev.com/ghpvc/?username=JLimaCoder&style=for-the-badge&label=visitas&color=ffb454&labelColor=0d1117" alt="Visitas no perfil" />
 </p>
 
